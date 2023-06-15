@@ -57,15 +57,17 @@ Ao abrir a build, o usuário deve escolher um dos 2 botões para que se inicie.
 
 ## Recursos de inseridos 🧰
 📝 Tarefa 1
-![Uploading image.png…]()
+![image](https://github.com/Aleexmarcelo/MovimentFlocking/assets/83593099/f026c757-05f9-4ae5-be8b-0bd432b87d4a)
 
 
 📝 Tarefa 2
-![Uploading image.png…]()
+![image](https://github.com/Aleexmarcelo/MovimentFlocking/assets/83593099/9ac2102d-4eed-493a-86d9-afc64968fffa)
+
 
 
 📝 Tarefa 3
-![Uploading image.png…]()
+![image](https://github.com/Aleexmarcelo/MovimentFlocking/assets/83593099/53dac656-ac82-49d2-be38-de2efc028397)
+
 
 
 ## Desenvolvedores/Contribuintes:
